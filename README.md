@@ -1,1 +1,1 @@
-# Comic_app
+# ComicPie
